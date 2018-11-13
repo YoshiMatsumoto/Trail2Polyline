@@ -18,4 +18,4 @@
 
 - おわり
 
-![top-page](https://github.com/YoshiMatsumoto/Trail2Polyline/blob/image/CsvToPoint.gif)
+![image](./image/CsvToPoint.gif)
