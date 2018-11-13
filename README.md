@@ -1,10 +1,10 @@
-# Trail2Polyline
+# Trail2Polyline
 
 ## こちらのスクリプトはUnityの位置座標をRhinoのPolylineに変換するものになります。
 
-### 1. Unity側の操作
+### 1. Unity側の操作
 
-- TrailExport.csを、位置座標を取得したいオブジェクトにアタッチします。
+- TrailExport.csを、位置座標を取得したいオブジェクトにアタッチします。
 
 - 設定項目は、取得する時間間隔(Interval)、取得する時間(ExportTime)です。
 
